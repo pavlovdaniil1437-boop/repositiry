@@ -20,8 +20,6 @@ btn_save = QPushButton('сохранить')
 btn_reset = QPushButton('Сбросить фильтры')
 
 row = QHBoxLayout()
-
-
 col1 = QVBoxLayout()
 col2 = QVBoxLayout()
 col1.addWidget(btn_dir)
